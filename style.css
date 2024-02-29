@@ -1,0 +1,114 @@
+.nav {
+text-align: center;
+padding: 24px;
+text-decoration: none;
+
+}
+#container{
+background-color: white;
+
+
+}
+#form-container{
+    display: flex;
+    padding: 24px;
+    font-size: medium;
+
+
+
+}
+.text{
+    font-size: large;
+    padding: 24px;
+    
+}
+.headphone{
+    width: 50%;
+    height: 26hvh;
+    justify-content: right
+}
+.container3{
+    background-color: white;
+    
+    display: flex;
+    
+} 
+
+.container4{
+    background-color: white;
+    display: flex;
+    padding: 12px;
+    justify-content: space-between;
+    
+}
+.container5{
+    background-color: white;
+    display: flex;
+    padding: 12px;
+    justify-content: space-between;
+}
+.container6{
+    background-color: white;
+}
+
+.h3{
+color: pink;
+}
+.column{
+    display: content left;
+    text-align: left;
+    
+    font-size: medium;
+    padding: 24px;
+
+
+}
+.column2{
+    display:content right ;
+    text-indent: center;
+    text-align: center;
+    font-size: medium;
+    padding: 24px;
+    
+    
+}
+.return{
+    text-align: center;
+    text-indent: center;
+}
+
+
+.button{
+    color: blue;
+    display: flex right;
+}
+.phones{
+    display: inline-table;
+    padding-right: top;
+}
+ 
+
+.container7{
+    background-color: pink;
+}
+.image43{
+    display: flex;
+    justify-content: right;
+    padding: 12px;
+
+}
+.facebooklogo{
+    width: 3Opx;
+    height: 1vh;
+
+}
+.reference{
+    font-size: medium;
+    display: flex;
+    justify-self: right;
+    
+}
+
+
+
+
