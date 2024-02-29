@@ -57,6 +57,7 @@ color: pink;
 .column{
     display: content left;
     text-align: left;
+    flex-direction: left;
     
     font-size: medium;
     padding: 24px;
@@ -66,9 +67,10 @@ color: pink;
 .column2{
     display:content right ;
     text-indent: center;
-    text-align: center;
+    align-items: center;
     font-size: medium;
     padding: 24px;
+    flex-direction: right;
     
     
 }
@@ -78,9 +80,8 @@ color: pink;
 }
 
 
-.button{
-    color: blue;
-    display: flex right;
+button{
+    background-color: blue;
 }
 .phones{
     display: inline-table;
@@ -98,14 +99,25 @@ color: pink;
 
 }
 .facebooklogo{
-    width: 3Opx;
+    width: 1px;
     height: 1vh;
+
 
 }
 .reference{
     font-size: medium;
     display: flex;
-    justify-self: right;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+.pp3{
+    justify-content: space-between;
+    display: flex;
+    
+    
+
     
 }
 
